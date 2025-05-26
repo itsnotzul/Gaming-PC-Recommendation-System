@@ -1,34 +1,143 @@
-Brand,Name,80+ Rating,Wattage,Price
-1st Player,Steampunk PS-650SP,gold,650,326.0
-1st Player,Steampunk PS-750SP,gold,750,383.0
-1st Player,Steampunk PS-850SP,gold,850,411.0
-Asus,Asus Prime AP-850G 850,gold,850,660.0
-Asus,Asus TUF Gaming 850G 850,gold,850,749.0
-Cooler,Cooler Master MWE Bronze V3 550 ,bronze,550,219.0
-Cooler,Cooler Master MWE Bronze V3 650 ,bronze,650,255.0
-Cooler,Cooler Master MWE Gold 650,gold,650,399.0
-Cooler,Cooler Master MWE GOLD 650 V2 650,gold,650,395.0
-Cooler,Cooler Master V650 650,gold,650,515.0
-Cooler,Cooler Master MWE Bronze V3 750,bronze,750,289.0
-Cooler,Cooler Master MWE GOLD 750 V2 750,gold,750,445.0
-Cooler,Cooler Master MWE Gold 850 - V2 850,gold,850,599.0
-Cooler,Cooler Master GX III Gold 1050,gold,1050,779.0
-Cooler,Cooler Master GX III Gold 1250,gold,1250,879.0
-Cooler,Cooler Master V1300 Platinum 1300,platinum,1300,1349.0
-Deepcool,Deepcool PK550D 550,bronze,550,219.0
-Deepcool,Deepcool PK650D 650,bronze,650,249.0
-Deepcool,Deepcool PK750D 750,bronze,750,279.0
-Gigabyte,Gigabyte P450B ,bronze,450,159.0
-Gigabyte,Gigabyte P550SS,silver,550,179.0
-Gigabyte,Gigabyte P650G 650,gold,650,259.0
-Gigabyte,Gigabyte P650SS,silver,650,207.0
-Gigabyte,Gigabyte GP-P650SS,silver,650,215.0
-Gigabyte,Gigabyte UD750GM PG5 750,gold,750,519.0
-Gigabyte,Gigabyte UD850GM 850,gold,850,475.0
-Gigabyte,Gigabyte UD850GM PG5 (rev. 2.0) 850,gold,850,529.0
-MSI,MSI MAG A650BN 650,bronze,650,217.0
-MSI,MSI MAG A750BN ,bronze,750,319.0
-Silverstone,Silverstone DA750R Gold White 750,gold,750,449.0
-Silverstone,Silverstone Attis 750R,bronze,750,269.0
-Thermaltake,Thermaltake Toughpower GF 750,gold,750,422.0
-Thermaltake,Thermaltake Toughpower GF 850,gold,850,457.0
+Brand,Name,80+ Rating,Wattage,Price,URL,Timestamp
+1st Player,ACK Standard,White,550,155,https://brightstarcomp.com/collections/pc-components/products/1st-player-ack-standard-80-plus-atx-power-supply?_pos=1&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:51
+1st Player,ACK Standard,White,650,175,https://brightstarcomp.com/collections/pc-components/products/1st-player-ack-standard-80-plus-atx-power-supply?_pos=1&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:51
+1st Player,ACK Standard,White,750,205,https://brightstarcomp.com/collections/pc-components/products/1st-player-ack-standard-80-plus-atx-power-supply?_pos=1&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:51
+Segotep,AN750W,White,750,199,https://brightstarcomp.com/collections/pc-components/products/segotep-an-series-atx-80-plus-power-supply?_pos=69&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:54
+Gigabyte,Aorus Elite,Platinum,850,599,https://czone.my/czone/gp-ae850pm pg5-1739103414.html,2025-03-19 14:38:47
+Gigabyte,Aorus Elite Ice,Platinum,850,649,https://czone.my/czone/gigabyte-aorus-elite-1000w-pg5-ice-platinum-power-supply-1000watts-80plus-platinum-fully-modular-white-1.html,2025-03-19 14:38:47
+Gigabyte,Aorus Elite Ice,Platinum,1000,779,https://czone.my/czone/gigabyte-aorus-elite-1000w-pg5-ice-platinum-power-supply-1000watts-80plus-platinum-fully-modular-white-1.html,2025-03-19 14:38:47
+Gigabyte,Aorus P850W,Gold,850,549,https://brightstarcomp.com/collections/pc-components/products/gigabyte-aorus-p850w-80-gold-modular-power-supply?_pos=50&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:54
+Aigo,AP550,White,550,150,https://brightstarcomp.com/collections/pc-components/products/aigo-ap550-80-plus-atx-power-supply?_pos=15&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:51
+MONTECH,AP550,White,550,155,https://brightstarcomp.com/collections/pc-components/products/montech-ap550-atx-550w-80-white-power-supply?_pos=59&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:54
+Aigo,AP650,White,650,175,https://brightstarcomp.com/collections/pc-components/products/aigo-ap650-80-plus-atx-power-supply?_pos=16&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:51
+1st Player,ARMOUR AR7.5,Gold,750,289,https://brightstarcomp.com/collections/pc-components/products/1st-player-armour-ar7-5-750w-80-gold-atx-power-supply?_pos=2&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:51
+Silverstone,Attis 750R,Bronze,750,269,https://czone.my/czone/sst-at750r-bf-1739106997.html,2025-03-19 14:38:47
+Aigo,AX850T,Gold,850,419,https://brightstarcomp.com/collections/pc-components/products/aigo-ax850t-atx3-0-atx-850w-80-gold-power-supply?_pos=17&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:51
+1st Player,Black Sir 500,White,500,165,https://brightstarcomp.com/collections/pc-components/products/1st-player-black-sir-500-600-80-plus-atx-power-supply?_pos=3&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:51
+1st Player,Black Sir 600,White,600,190,https://brightstarcomp.com/collections/pc-components/products/1st-player-black-sir-500-600-80-plus-atx-power-supply?_pos=3&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:51
+1st Player,Black Widow 500W,White,500,179,https://brightstarcomp.com/collections/pc-components/products/1st-player-black-widow-500w-sfx-power-supply?_pos=4&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:51
+NZXT,C1000,Gold,1000,819,https://brightstarcomp.com/collections/pc-components/products/nzxt-c1000-1200-2024-atx-3-1-80-plus-gold-full-modular-power-supply?_pos=65&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:54
+NZXT,C1200,Gold,1200,919,https://brightstarcomp.com/collections/pc-components/products/nzxt-c1000-1200-2024-atx-3-1-80-plus-gold-full-modular-power-supply?_pos=65&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:54
+NZXT,C1500,Platinum,1500,1619,https://brightstarcomp.com/collections/pc-components/products/nzxt-c1500-atx-3-1-pcie5-1-1500w-80-platinum-full-modular-power-supply?_pos=66&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:54
+NZXT,C750,Gold,750,329,https://brightstarcomp.com/collections/pc-components/products/nzxt-c750-atx-750w-80-bronze-non-modular-power-supply?_pos=67&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:54
+NZXT,C850,Gold,850,649,https://brightstarcomp.com/collections/pc-components/products/nzxt-c850-atx3-1-atx-850w-80-gold-full-modular-power-supply?_pos=68&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:54
+Cooler Master,"Cooler Master MWE Bronze V3 650 Power Supply (650 Watts, 80plus Bronze, ATX 3.1)",Bronze,650,249,https://czone.my/czone/mpe-6501-acabw-3buk-1739103702.html,2025-03-19 14:38:47
+Corsair,CX650,Bronze,650,239,https://czone.my/czone/corsair-cx750-power-supply-750-watts-80plus-bronze-1.html,2025-03-19 14:38:47
+Corsair,CX750,Bronze,750,289,https://czone.my/czone/corsair-cx750-power-supply-750-watts-80plus-bronze-1.html,2025-03-19 14:38:47
+Silverstone,DA1000R,Gold,1000,629,https://czone.my/czone/sst-da1000r-gm-1739106998.html,2025-03-19 14:38:51
+Silverstone,DA750R,Gold,750,409,https://czone.my/czone/silverstone-da850r-power-supply-850-watts-80plus-gold-fully-modular-atx-3-0-pcie-5-1.html,2025-03-19 14:38:51
+Silverstone,DA850R,Gold,850,459,https://czone.my/czone/silverstone-da850r-power-supply-850-watts-80plus-gold-fully-modular-atx-3-0-pcie-5-1.html,2025-03-19 14:38:51
+FSP,Dagger Pro,Gold,650,489,https://brightstarcomp.com/collections/pc-components/products/fsp-dagger-650w-pro-sfx-80-gold-full-modular-power-supply?_pos=40&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:52
+FSP,Dagger Pro,Gold,850,669,https://brightstarcomp.com/collections/pc-components/products/fsp-dagger-pro-atx-3-0pcie5-0-series-sfx-80-plus-gold-full-modular-power-supply?_pos=41&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:52
+1st Player,DK 6.0 ATX 600W,Bronze,600,219,https://brightstarcomp.com/collections/pc-components/products/1st-player-dk-6-0-atx-600w-80-bronze-full-modular-power-supply?_pos=5&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:51
+1st Player,DK Premium 6.0,Bronze,600,199,https://brightstarcomp.com/collections/pc-components/products/1st-player-dk-premium-6-0-7-0-80-plus-bronze-atx-power-supply?_pos=6&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:51
+1st Player,DK Premium 7.0,Bronze,700,225,https://brightstarcomp.com/collections/pc-components/products/1st-player-dk-premium-6-0-7-0-80-plus-bronze-atx-power-supply?_pos=6&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:51
+1st Player,DK6.0 PS-600AX,Bronze,600,209,https://czone.my/czone/ps-600ax-1739103831.html,2025-03-19 14:38:51
+Deepcool,DQ1000M-V3L,Gold,1000,559,https://czone.my/czone/deepcool-dqm-v3l-series-power-supply.html,2025-03-19 14:38:51
+Lian Li ,Edge,Gold,1300,1079,https://brightstarcomp.com/collections/pc-components/products/lian-li-edge-atx3-1-pcie5-1-series-atx-80-plus-gold-full-modular-power-supply?_pos=58&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:54
+Invasion,EX-500,White,500,139,https://brightstarcomp.com/collections/pc-components/products/invasion-ex-500-500w-80plus-atx-power-supply?_pos=57&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:54
+Cooler Master,GOLD 750 V2,Gold,750,445,,2025-01-05 00:00:00
+Gigabyte,GP-P650SS,Silver,650,215,,2025-01-05 00:00:00
+Cooler Master,GX III Gold 1050,Gold,1050,779,,2025-01-05 00:00:00
+Cooler Master,GX III Gold 1250,Gold,1250,879,,2025-01-05 00:00:00
+Silverstone,HA1200R,Platinum,1200,899,https://czone.my/czone/sst-ha1200r-pm-1739107000.html,2025-03-19 14:38:51
+FSP,HV Pro,Bronze,650,249,https://brightstarcomp.com/collections/pc-components/products/fsp-hv-pro-series-atx-80-plus-bronze-power-supply?_pos=42&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:52
+FSP,Hydro K Pro,Bronze,750,329,https://brightstarcomp.com/collections/pc-components/products/fsp-hydro-k-pro-atx-750w-80-bronze-power-supply?_pos=44&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:52
+FSP,Hyper 80+ Pro,White,550,159,https://brightstarcomp.com/collections/pc-components/products/fsp-hyper-80-pro-atx-550w-80-power-supply-h3-550?_pos=46&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:52
+Fractal Design,Ion+,Platinum,760,599,https://brightstarcomp.com/collections/pc-components/products/fractal-design-ion-760w-platinum-atx-power-supply?_pos=39&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:52
+Super Flower,Leadex III,Gold,850,499,https://brightstarcomp.com/collections/pc-components/products/super-flower-leadex-iii-atx3-1-pcie5-1-gold-series-atx-80-plus-gold-full-modular-power-supply?_pos=73&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:55
+Super Flower,Leadex III,Gold,1300,769,https://brightstarcomp.com/collections/pc-components/products/super-flower-leadex-iii-atx3-1-pcie5-1-gold-series-atx-80-plus-gold-full-modular-power-supply?_pos=73&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:55
+Thermaltake,LitePower 550W,White,550,149,https://czone.my/czone/thermaltake-litepower-series-power-supply.html,2025-03-19 14:38:51
+Thermaltake,LitePower 650W,White,650,170,https://czone.my/czone/thermaltake-litepower-series-power-supply.html,2025-03-19 14:38:51
+Aerocool,LUX RGB ATX 650W,Bronze,650,219,https://brightstarcomp.com/collections/pc-components/products/aerocool-lux-rgb-atx-650w-80-bronze-power-supply?_pos=12&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:51
+MSI,MAG A1000GL PCIE5,Gold,1000,769,https://czone.my/czone/mag a1000gl pcie5-1739103631.html,2025-03-19 14:38:47
+MSI,MAG A650BN,Bronze,650,229,https://czone.my/czone/mag a650bn-1739103631.html,2025-03-19 14:38:51
+MSI,MAG A750BN,Bronze,750,329,https://czone.my/czone/mag a750bn pcie5-1739103631.html,2025-03-19 14:38:51
+MSI,Mag A750GL,Gold,750,551,https://brightstarcomp.com/collections/pc-components/products/msi-mag-a750gl-pcie5-atx-750w-80-gold-full-modular-power-supply?_pos=62&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:54
+MSI,MAG A850GL,Gold,850,578,https://brightstarcomp.com/collections/pc-components/products/msi-mag-a850gl-pcie-5-80-plus-gold-full-modular-power-supply?_pos=63&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:54
+MSI,MAG PCIE5,Gold,750,539,https://czone.my/czone/msi-mag-pcie5-power-supply.html,2025-03-19 14:38:51
+Aerocool,Mirage 650W,Gold,650,289,https://brightstarcomp.com/collections/pc-components/products/aerocool-mirage-650w-80-gold-full-modular-power-supply?_pos=14&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:51
+MSI,MPG A750GF,Gold,750,419,https://brightstarcomp.com/collections/pc-components/products/msi-mpg-a750gf-750w-80-plus-gold-full-modular-power-supply?_pos=64&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:54
+Cooler Master,MWE Bronze 550 V3,Bronze,550,209,https://czone.my/czone/mpe-5501-acabw-3buk-1739103702.html,2025-03-19 14:38:47
+Cooler Master,MWE Bronze 650 V3,Bronze,650,255,,2025-01-05 00:00:00
+Cooler Master,MWE Bronze 750 V3,Bronze,750,289,,2025-01-05 00:00:00
+Cooler Master,MWE Gold 650,Gold,650,399,,2025-01-05 00:00:00
+Cooler Master,MWE GOLD 650 V2,Gold,650,395,,2025-01-05 00:00:00
+Cooler Master,MWE Gold 850 V2,Gold,850,599,,2025-01-05 00:00:00
+1st Player,NGDP ATX 3.0,Platinum,1000,759,https://brightstarcomp.com/collections/pc-components/products/1st-player-ngdp-atx-3-0-80-plus-platinum-atx-full-modular-power-supply?_pos=7&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:51
+1st Player,NGDP ATX 3.0,Platinum,1300,899,https://brightstarcomp.com/collections/pc-components/products/1st-player-ngdp-atx-3-0-80-plus-platinum-atx-full-modular-power-supply?_pos=7&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:51
+1st Player,NGDP ATX 3.1,Platinum,750,415,https://brightstarcomp.com/collections/pc-components/products/1st-player-ngdp-atx-3-1-gold-80-plus-gold-atx-full-modular-power-supply?_pos=8&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:51
+1st Player,NGDP ATX 3.1,Platinum,850,449,https://brightstarcomp.com/collections/pc-components/products/1st-player-ngdp-atx-3-1-gold-80-plus-gold-atx-full-modular-power-supply?_pos=8&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:51
+1st Player,NGDP ATX 3.1,Platinum,1000,559,https://brightstarcomp.com/collections/pc-components/products/1st-player-ngdp-atx-3-1-gold-80-plus-gold-atx-full-modular-power-supply?_pos=8&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:51
+Gigabyte,P450B,Bronze,450,140,https://czone.my/czone/gp-p450b-1739103416.html,2025-03-19 14:38:51
+Gigabyte,P450B,Bronze,450,179,https://brightstarcomp.com/collections/pc-components/products/gigabyte-p450b-atx-450w-80-bronze-power-supply?_pos=51&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:54
+Gigabyte,P550SS,Silver,550,189,https://czone.my/czone/gp-p550ss-1739103416.html,2025-03-19 14:38:47
+Gigabyte,P650G,Gold,650,249,https://czone.my/czone/gp-p650g-1739103416.html,2025-03-19 14:38:47
+Gigabyte,P650SS,Silver,650,219,https://czone.my/czone/gp-p650ss-1739103416.html,2025-03-19 14:38:47
+Gigabyte,P650SS,Silver,650,219,https://brightstarcomp.com/collections/pc-components/products/gigabyte-p550ss-p650ss-atx-80-plus-silver-power-supply?_pos=52&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:54
+Gigabyte,P750BS,Bronze,750,249,https://czone.my/czone/gp-p750bs-1741250703.html,2025-03-19 14:38:47
+Deepcool,PF450,White,450,139,https://czone.my/czone/deepcool-pf-series-power-supply.html,2025-03-19 14:38:51
+Deepcool,PF450,White,450,139,https://brightstarcomp.com/collections/pc-components/products/deepcool-pf450-pf550-pf650-80-plus-white-atx-power-supply?_pos=35&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:52
+Deepcool,PF550,White,550,149,https://czone.my/czone/deepcool-pf-series-power-supply.html,2025-03-19 14:38:51
+Deepcool,PF650,White,650,169,https://czone.my/czone/deepcool-pf-series-power-supply.html,2025-03-19 14:38:51
+Deepcool,PF650,White,650,169,https://brightstarcomp.com/collections/pc-components/products/deepcool-pf650-atx-650w-80-power-supply?_pos=36&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:52
+Deepcool,PK450D,Bronze,450,199,https://czone.my/czone/deepcool-pkd-series-power-supply.html,2025-03-19 14:38:51
+Deepcool,PK550D,Bronze,550,119,https://brightstarcomp.com/collections/pc-components/products/deepcool-pk550d-pk650d-pk750d-80-plus-bronze-atx-power-supply?_pos=37&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:52
+Deepcool,PK650D,Bronze,650,225,https://brightstarcomp.com/collections/pc-components/products/deepcool-pk550d-pk650d-pk750d-80-plus-bronze-atx-power-supply?_pos=37&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:52
+Deepcool,PK750D,Bronze,750,255,https://czone.my/czone/deepcool-pkd-series-power-supply.html,2025-03-19 14:38:51
+Deepcool,PN1000M,Gold,1000,659,https://czone.my/czone/deepcool-pnm-series-power-supply.html,2025-03-19 14:38:47
+Deepcool,PN1200M,Gold,1200,799,https://czone.my/czone/deepcool-pnm-series-power-supply.html,2025-03-19 14:38:47
+Deepcool,PN650M,Gold,650,429,https://czone.my/czone/deepcool-pnm-series-power-supply.html,2025-03-19 14:38:47
+Deepcool,PN750M,Gold,750,479,https://czone.my/czone/deepcool-pnm-series-power-supply.html,2025-03-19 14:38:47
+Deepcool,PN850M,Gold,850,569,https://czone.my/czone/deepcool-pnm-series-power-supply.html,2025-03-19 14:38:47
+Asus,Prime 750W,Gold,750,590,https://brightstarcomp.com/collections/pc-components/products/asus-prime-750w-850w-80-plus-gold-atx-full-modular-power-supply?_pos=18&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:51
+Asus,Prime 850W,Gold,850,659,https://brightstarcomp.com/collections/pc-components/products/asus-prime-750w-850w-80-plus-gold-atx-full-modular-power-supply?_pos=18&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:51
+Asus,Prime AP-850G,Gold,850,660,,2025-01-05 00:00:00
+1st Player,PS-650SFX,Gold,650,389,https://brightstarcomp.com/collections/pc-components/products/1st-player-ps-650sfx650w-80-gold-sfx-full-modular-power-supply?_pos=9&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:51
+Deepcool,PX850G,Gold,850,539,https://czone.my/czone/deepcool-pxg-series-power-supply.html,2025-03-19 14:38:51
+Corsair,RM1000e,Gold,1000,529,https://czone.my/czone/corsair-rm1000e-power-supply-1000-watts-80plus-gold-fully-modular-pcie5-1.html,2025-03-19 14:38:47
+Corsair,RM1000x Shift,Gold,1000,869,https://czone.my/czone/corsair-rm1000x-shift-power-supply-1000-watts-80plus-gold-fully-modular-1.html,2025-03-19 14:38:47
+Corsair,RM850e,Gold,850,639,https://brightstarcomp.com/collections/pc-components/products/corsair-rme-series-atx-3-0-80-plus-gold-full-modular-power-supply?_pos=31&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:52
+Corsair,RM850x Shift,Gold,850,669,https://czone.my/czone/corsair-rm1000x-shift-power-supply-1000-watts-80plus-gold-fully-modular-1.html,2025-03-19 14:38:47
+Asus,ROG Loki SFX-L,Platinum,750,970,https://brightstarcomp.com/collections/pc-components/products/asus-rog-loki-sfx-l-gaming-80-plus-platinum-full-modular-power-supply?_pos=21&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:51
+Asus,ROG Loki SFX-L,Platinum,850,1059,https://brightstarcomp.com/collections/pc-components/products/asus-rog-loki-sfx-l-gaming-80-plus-platinum-full-modular-power-supply?_pos=21&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:51
+Asus,ROG Loki SFX-L,Platinum,1000,1266,https://brightstarcomp.com/collections/pc-components/products/asus-rog-loki-sfx-l-gaming-80-plus-platinum-full-modular-power-supply?_pos=21&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:51
+Asus,ROG Strix,Platinum,1000,1299,https://czone.my/czone/rog-strix-1000p-gaming-1741931108.html,2025-03-19 14:38:47
+Asus,ROG Strix,Platinum,1200,1499,https://czone.my/czone/rog-strix-1200p-gaming-1741927504.html,2025-03-19 14:38:47
+Asus,ROG Thor,Platinum,1000,1799,https://brightstarcomp.com/collections/pc-components/products/asus-rog-1000p2-1200p2-atx-80-plus-platinum-full-modular-power-supply?_pos=20&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:51
+Asus,ROG Thor,Platinum,1200,1888,https://brightstarcomp.com/collections/pc-components/products/asus-rog-1000p2-1200p2-atx-80-plus-platinum-full-modular-power-supply?_pos=20&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:51
+Corsair,SF1000L,Gold,1000,779,https://czone.my/czone/corsair-sf1000l-sfx-power-supply-1000-watts-80plus-gold-fully-modular-pcie5-1.html,2025-03-19 14:38:51
+Corsair,SF850L,Gold,850,669,https://czone.my/czone/corsair-sf1000l-sfx-power-supply-1000-watts-80plus-gold-fully-modular-pcie5-1.html,2025-03-19 14:38:51
+BeQuiet,SFX L POWER,Gold,600,450,https://brightstarcomp.com/collections/pc-components/products/bequiet-sfx-l-power-600w-power-supply?_pos=25&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:52
+Thermaltake,Smart BM3,Bronze,850,429,https://czone.my/czone/thermaltake-smart-bm3-power-supply.html,2025-03-19 14:38:51
+Lian Li ,SP850,Gold,850,539,https://czone.my/czone/lian-li-sp-series-sfx-power-supply.html,2025-03-19 14:38:51
+1st Player,Steampunk PS-650AX,Silver,650,269,https://brightstarcomp.com/collections/pc-components/products/1st-player-steampunk-ps-650ax-750ax-80-plus-silver-atx-power-supply?_pos=10&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:51
+1st Player,Steampunk PS-650SP,Gold,650,326,,2025-01-05 00:00:00
+1st Player,Steampunk PS-750AX,Silver,750,299,https://brightstarcomp.com/collections/pc-components/products/1st-player-steampunk-ps-650ax-750ax-80-plus-silver-atx-power-supply?_pos=10&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:51
+1st Player,Steampunk PS-750SP,Gold,750,375,https://brightstarcomp.com/collections/pc-components/products/1st-player-steampunk-ps-750sp-850sp80-plus-gold-atx-full-modular-power-supply?_pos=11&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:51
+1st Player,Steampunk PS-850SP,Gold,850,399,https://brightstarcomp.com/collections/pc-components/products/1st-player-steampunk-ps-750sp-850sp80-plus-gold-atx-full-modular-power-supply?_pos=11&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:51
+Silverstone,Strider ST550-EF,White,550,179,https://czone.my/czone/sst-st550-ef-1739107002.html,2025-03-19 14:38:47
+Silverstone,Strider ST650-EFA,White,650,199,https://czone.my/czone/sst-st650-efa-1739107002.html,2025-03-19 14:38:47
+Silverstone,Strider ST650-EFA-WBW,White,650,229,https://czone.my/czone/sst-st650-efa-wbw-1739107003.html,2025-03-19 14:38:47
+Silverstone,Strider ST65F-ES230,White,650,209,https://brightstarcomp.com/collections/pc-components/products/silverstone-strider-st65f-es230-white-650w-80-atx-power-supply?_pos=72&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:54
+Silverstone,Strider ST750-EF,White,750,229,https://czone.my/czone/sst-st750-ef-1739107003.html,2025-03-19 14:38:47
+Thermaltake,Toughpower GF 750,Gold,750,422,,2025-01-05 00:00:00
+Thermaltake,Toughpower GF 850,Gold,850,457,,2025-01-05 00:00:00
+Thermaltake,Toughpower GF3,Gold,1050,645,https://czone.my/czone/thermaltake-toughpower-gf3-power-supply.html,2025-03-19 14:38:51
+Asus,TUF Gaming,Gold,1200,1149,https://czone.my/czone/tuf-gaming-1200g-7428.html,2025-03-19 14:38:47
+Asus,TUF Gaming,Gold,850,749,https://czone.my/czone/tuf-gaming-850g-1739107082.html,2025-03-19 14:38:47
+Asus,TUF Gaming,Gold,750,709,https://brightstarcomp.com/collections/pc-components/products/asus-tuf-gaming-gold-series-atx-80-plus-gold-full-modular-power-supply?_pos=24&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:51
+Asus,TUF Gaming,Gold,1000,926,https://brightstarcomp.com/collections/pc-components/products/asus-tuf-gaming-gold-series-atx-80-plus-gold-full-modular-power-supply?_pos=24&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:51
+Gigabyte,UD1000GM,Gold,10000,729,https://czone.my/czone/gp-ud1000gm%20pg5-1739103417.html,2025-03-19 14:38:51
+Gigabyte,UD750GM,Gold,750,449,https://czone.my/czone/gp-ud750gm%20pg5-1739103417.html,2025-03-19 14:38:47
+Gigabyte,UD850GM,Gold,850,399,https://czone.my/czone/gigabyte-udx50gm-gold-power-supply-80plus-gold-full-modular.html,2025-03-19 14:38:51
+Cooler Master,V1300,Platinum,1300,1349,,2025-01-05 00:00:00
+Cooler Master,V650,Gold,650,515,,2025-01-05 00:00:00
+FSP,Vita GD,Gold,750,359,https://brightstarcomp.com/collections/pc-components/products/fsp-vita-gd-atx3-1-pcie5-1-series-atx-80-plus-gold-full-modular-power-supply?_pos=47&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:52
+FSP,Vita GD,Gold,850,389,https://brightstarcomp.com/collections/pc-components/products/fsp-vita-gd-atx3-1-pcie5-1-series-atx-80-plus-gold-full-modular-power-supply?_pos=47&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:52
+FSP,Vita GM,Gold,850,609,https://czone.my/czone/vita-850gm-1739107182.html,2025-03-19 14:38:47
+FSP,Vita GM,Gold,850,609,https://brightstarcomp.com/collections/pc-components/products/fsp-vita-gm-atx3-1-pcie5-1-series-atx-80-plus-gold-full-modular-power-supply?_pos=48&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:52
+FSP,Vita GM,Gold,1000,689,https://brightstarcomp.com/collections/pc-components/products/fsp-vita-gm-atx3-1-pcie5-1-series-atx-80-plus-gold-full-modular-power-supply?_pos=48&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:52
+FSP,Vita GM 1000,Gold,1000,709,https://czone.my/czone/vita-1000gm-1739107181.html,2025-03-19 14:38:47
+FSP,Vita GM 850,Gold,850,629,https://czone.my/czone/vita-850gm-wht-1739107182.html,2025-03-19 14:38:47
+Super Flower,Zillion,Bronze,650,249,https://brightstarcomp.com/collections/pc-components/products/super-flower-zillion-bronze-atx-650w-80-bronze-power-supply?_pos=74&_fid=3fbac5c43&_ss=c,2025-03-18 22:11:55
