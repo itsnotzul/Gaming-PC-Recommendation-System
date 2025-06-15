@@ -1,4 +1,4 @@
-Brand,Model,Capacity (GB),Storage Type,Read (MB),Write (MB),Price
+Brand,Name,Capacity (GB),Storage Type,Read (MB),Write (MB),Price
 Seagate,Barracuda,1024,SATA HDD,190,180,145
 Seagate,Barracuda,2048,SATA HDD,190,180,200
 Seagate,Barracuda,3072,SATA HDD,190,180,298
