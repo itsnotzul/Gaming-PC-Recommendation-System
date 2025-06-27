@@ -5,7 +5,7 @@ from pulp import LpProblem, LpMaximize, LpMinimize, LpVariable, lpSum, LpStatus
 
 # Page configuration
 st.set_page_config(
-    page_title="PC Recommendation System",
+    page_title="Recommendation System",
     page_icon="🖥️",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -348,7 +348,7 @@ def build_and_solve_ilp(cpusf, gpusf, ramsf, mobosf, psusf, casesf, m2sf, satasf
 # -----------------------------
 # STEP 3: Streamlit UI
 # -----------------------------
-st.title("🖥️ PC Build Recommender")
+st.title("🖥️ Recommendation System")
 st.sidebar.title("Optimizer Options")
 
 # Optimization Objective
